@@ -1,1 +1,1 @@
-console.log('Change in version 1');
+console.log('Change in version 4');
