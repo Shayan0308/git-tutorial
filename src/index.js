@@ -1,2 +1,2 @@
 console.log('Hey in Index.js');
-console.log('version 2');
+console.log('version 1');
